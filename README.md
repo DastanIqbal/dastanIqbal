@@ -36,7 +36,7 @@
 - [Android](https://dastaniqbal.github.io/categories/android/)
 ---
  
-![Iqbal's Github Stats](https://github-readme-stats.vercel.app/api?username=dastanIqbal&count_private=true&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
+![Github Stats](https://github-readme-stats.vercel.app/api?username=dastanIqbal&count_private=true&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=["stars"])
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dastanIqbal&layout=compact&title_color=ffc857&text_color=daf7dc&bg_color=151515)](https://github.com/dastanIqbal/github-readme-stats)
 
